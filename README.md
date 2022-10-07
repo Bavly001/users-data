@@ -16,7 +16,7 @@ This page contains a list of users that their data fetched from the fake API (du
   
 ![!users-data](/screenshots/users-2.png)  
 ---
-**By hovering on employee's card it shows its other data**
+*By hovering on employee's card it shows its other data*
 ---
   
 
@@ -24,7 +24,7 @@ This page contains a list of users that their data fetched from the fake API (du
   
 This page for adding a new user in the fake API 
 ---
-**The user not really added, it's only fake post request**
+*The user not really added, it's only fake post request*
 ---
 
 ![!add-user](/screenshots/add-user-1.png)  
