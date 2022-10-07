@@ -1,0 +1,45 @@
+* {
+     transition: 0.5s;
+}
+::-webkit-scrollbar {
+     display: none;
+}
+.vh-80 {
+     min-height: 80vh;
+}
+#main {
+     z-index: 1;
+}
+#white-1 {
+     top: 40%;
+}
+
+.circle {
+     top: -50%;
+}
+.card {
+     height: 350px !important;
+     width: 350px !important;
+}
+.hover:hover {
+     transform: scale(1.1);
+     box-shadow: black 2px 2px 10px;
+}
+.hover:hover i,
+.hover:hover div {
+     transform: translateY(-110px);
+}
+footer {
+     height: 5vh;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+     -webkit-appearance: none;
+     margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+     -moz-appearance: textfield;
+}
